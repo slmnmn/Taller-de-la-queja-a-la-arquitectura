@@ -29,3 +29,18 @@ Sin embargo, teniendo en cuenta solo las respuestas de los participantes que rep
 > Separar la cantidad de dinero que va a X rubro de las cosas que tenga por pagar mensualmente
 
 ### 2 Definición funcional
+#### Historia de usuario principal
+
+Para la definición funcional, la __actividad__ teniendo las diferentes "soluciones deseadas"
+
+![Actividad.](/imagenes/actividad.png "Actividad")
+
+Esta actividad engloba la necesidad de saber qué entra, qué sale y cuánto queda de forma centralizada.
+
+El __paso a paso__ que podemos sacar de las respuestas puede ser el siguiente.
+
+![Paso a paso](/imagenes/image.png "paso a paso")
+
+Ya sacando la __historia de usuario__ con el paso a paso queda de esta manera:
+
+![historia](/imagenes/historia.png "historia")
