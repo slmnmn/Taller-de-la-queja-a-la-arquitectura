@@ -44,3 +44,19 @@ El __paso a paso__ que podemos sacar de las respuestas puede ser el siguiente.
 Ya sacando la __historia de usuario__ con el paso a paso queda de esta manera:
 
 ![historia](/imagenes/historia.png "historia")
+
+### Criterios de aceptación 
+
+- No debe demorarse mas de 5 minutos en actualizar los datos.
+- Las compras hechas tienen que estar categorizadas.
+- Actualizar el presupuesto o monto disponible para la quincena.
+- Tiene que ser a tiempo real. Actualizandose con cada compra.
+- Accesible desde varios medios.
+
+
+#### Requisitos funcionales
+- El sistema debe integrarse mediante APIs bancarias seguras (Open Banking) para capturar transacciones en tiempo real y clasificarlas automáticamente en categorías de gasto. (Automatiza)
+
+- El sistema debe calcular dinámicamente un "Presupuesto Diario de Supervivencia", restando los gastos fijos mensuales y metas de ahorro del saldo total, mostrando al usuario cuánto puede gastar hoy sin comprometer el dinero de la siguiente quincena. (Proyecta)
+
+- El sistema debe generar un informe de diagnóstico semanal mediante alguna inteligencia artificial que identifique "gastos hormiga" o patrones de consumo ineficientes, proponiendo automáticamente un ajuste en los límites de gasto de la categoría afectada para el siguiente periodo.
